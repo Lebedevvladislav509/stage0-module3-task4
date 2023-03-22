@@ -5,6 +5,7 @@ public class IntRepresentation {
         char c = 'c';
         char h = 'h';
         char a = 'a';
+
         char r = 'r';
         int c1 = c;
         int h1 = h;
